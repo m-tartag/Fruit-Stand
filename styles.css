@@ -1,0 +1,42 @@
+
+.slide1{
+  background-image: url('images/1.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.slide2{
+  background-image: url('images/2.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.slide3{
+  background-image: url('images/3.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.carousel-caption h1{
+  font-size: 5.4em;
+  padding-bottom: .4em;
+  font-family: 'Jockey One', sans-serif;
+}
+.carousel-caption p{
+  font-size: 2em;
+  font-family: 'Jockey One', sans-serif;
+}
+
+.master {
+  background-image: url(images/texture3.jpg);
+ 
+}
+
+.mid {
+  margin: 40px;
+  font-family: 'Jockey One', sans-serif;
+
+}

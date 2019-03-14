@@ -14,9 +14,13 @@ var fruitStand = {
 
 };
 
-/*document.getElementById("title").innerText = fruitStand.name;
 
-document.getElementById("motto").innerText = fruitStand.motto;*/
+
+// Header
+
+
+document.getElementById("title").innerText = fruitStand.name;
+document.getElementById("motto").innerText = fruitStand.motto;
 
 
 
@@ -26,10 +30,3 @@ document.getElementById("product1").innerText = fruitStand.products[0] + ": " + 
 document.getElementById("product2").innerText = fruitStand.products[1] + ": " + formatter.format(fruitStand.prices[1]);
 document.getElementById("product3").innerText = fruitStand.products[2] + ": " + formatter.format(fruitStand.prices[2]);
 document.getElementById("product4").innerText = fruitStand.products[3] + ": " + formatter.format(fruitStand.prices[3]);
-
-
-
-
-
-
-console.log(10);
